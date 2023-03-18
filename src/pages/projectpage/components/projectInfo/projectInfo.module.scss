@@ -1,0 +1,25 @@
+.projectInfo {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  .projectDescription {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgba(128, 128, 128, 0.673);
+    padding-left: 20px;
+  }
+  .description {
+    font-style: italic;
+    font-size: 15px;
+  }
+  .projectTitle {
+    font-size: 50px;
+  }
+  .projectTechnogolies {
+    font-size: 25px;
+  }
+  .stack {
+    font-size: 19px;
+  }
+}

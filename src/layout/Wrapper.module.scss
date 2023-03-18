@@ -1,0 +1,16 @@
+.wrapper {
+  height: auto;
+  display: flex;
+  gap: 80px;
+  flex-direction: column;
+  padding-bottom: 50px;
+}
+
+header,
+footer {
+  height: 40px;
+}
+
+main {
+  flex: 1;
+}

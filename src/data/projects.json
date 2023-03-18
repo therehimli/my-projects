@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Burger store application",
+    "images": [
+      "https://i.ibb.co/dPN5W2y/burger1.png",
+      "https://i.ibb.co/pnpy4Gz/burger2.png"
+    ],
+    "github": "https://github.com/therehimli/burger-store",
+    "visit": "https://burger-store-nu.vercel.app/",
+    "stack": "TypeScript, ReactJS, Redux, SCSS, Tailwindcss",
+    "description": "E-commerce application made in Reactjs for burger selling, Bon appetit!"
+  },
+  {
+    "id": 2,
+    "title": "Bank application",
+    "images": [
+      "https://i.ibb.co/fqM2ynL/bank1.png",
+      "https://i.ibb.co/zW32pX0/bank2.png",
+      "https://i.ibb.co/Jy9sGtD/bank3.png",
+      "https://i.ibb.co/swwRdz7/bank4.png",
+      "https://i.ibb.co/xY6Bmy6/bank5.png"
+    ],
+    "github": "https://github.com/therehimli/atlas-bank",
+    "visit": "https://therehimli.github.io/atlas-bank/",
+    "stack": "JavaScript, ReactJS, SCSS, Tailwindcss",
+    "description": "Responsive Bank application for your business"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio application",
+    "images": ["https://i.ibb.co/QcPfHZz/portfolio.png"],
+    "github": "https://github.com/therehimli/Card-site",
+    "visit": "https://card-site-wine.vercel.app/",
+    "stack": "TypeScript, ReactJS, Nextjs, Redux, SCSS, Tailwindcss",
+    "description": "My business cart site made on NextJS"
+  }
+]

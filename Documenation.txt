@@ -1,0 +1,9 @@
+1. Made layout (SCSS, Styled components, UI components)
+2. Made React and Router logic (React, React router, clsx)
+3. Made forms and selects logic (React Hook form, React Select)
+4. Made State and API logic (Zustand, React query)
+5. Made storage logic (LS, cookies)
+6. Made Optimization
+7. Heroku, GitHub
+
+сделать сайнап и логин, сделать мэп курсов и страницу курса и перевод страниц
